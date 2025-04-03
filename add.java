@@ -8,7 +8,8 @@ class Addition{
 	int num2 = sc.nextInt();
 	int add = num1 + num1;
 	System.out.println("The addition is "+ add);
-
+	int sub = num1 - num2;
+	System.out.println("The substraction is " + sub);
 
 
 
