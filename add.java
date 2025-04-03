@@ -11,6 +11,11 @@ class Addition{
 	int sub = num1 - num2;
 	System.out.println("The substraction is " + sub);
 
+	int mult = num1*num2;
+	System.out.println("Multiplication is "+ mult);
+
+
+
 
 
 	}
